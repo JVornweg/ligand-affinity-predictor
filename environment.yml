@@ -1,0 +1,11 @@
+name: ligand-pred
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - rdkit
+  - scikit-learn
