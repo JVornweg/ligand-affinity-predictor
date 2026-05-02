@@ -9,3 +9,6 @@ dependencies:
   - pandas
   - rdkit
   - scikit-learn
+  - pip
+  - pip:
+      - chembl_webresource_client
